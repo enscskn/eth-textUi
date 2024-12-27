@@ -7,3 +7,5 @@ Export:
 exports['eth-textUi']:Show(“Waiting...”, “Content”)
 
 exports['eth-textUi']:Close()
+
+(Inspired by NoPixel)
